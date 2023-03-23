@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MidternAndroid</string>
+    <string name="enter_email">Nhập email</string>
+    <string name="enter_account">Nhập tên đăng nhập</string>
+    <string name="enter_password">Nhập mật khẩu</string>
+    <string name="addStudent">Thêm Sinh Viên</string>
+    <string name="enter_id_student">Chập ID sinh viên</string>
+    <string name="label_student_list">Danh sách sinh viên:</string>
+    <string name="studentNameLabel">Họ và tên:</string>
+    <string name="testStudentName">Nguyễn Văn Viên</string>
+    <string name="todo">TODO</string>
+    <string name="testStudentClass">21SE4</string>
+    <string name="StudentClassLabel">Lớp sinh hoạt:</string>
+    <string name="testStudentEmail">nguyenvien161002@gmail.com</string>
+    <string name="studentEmailLabel">Email:</string>
+    <string name="studentIDLabel">ID:</string>
+    <string name="testStudentID">01</string>
+    <string name="confirm_password">Nhập lại mật khẩu</string>
+    <string name="sign_in">Đăng nhập</string>
+    <string name="sign_up">Đăng ký</string>
+</resources>
